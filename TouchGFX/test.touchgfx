@@ -26,7 +26,7 @@
             "Pressed": "__designer\\Blue_Buttons_Round_Edge_small_pressed.png",
             "Released": "__designer\\Blue_Buttons_Round_Edge_small.png",
             "Alpha": 255,
-            "TextId": "SingleUseId1",
+            "TextId": "SingleUseId2",
             "ReleasedColor": {
               "Red": 255,
               "Green": 255,
@@ -55,7 +55,7 @@
             "Pressed": "__designer\\Blue_Buttons_Round_Edge_small_pressed.png",
             "Released": "__designer\\Blue_Buttons_Round_Edge_small.png",
             "Alpha": 255,
-            "TextId": "SingleUseId2",
+            "TextId": "SingleUseId1",
             "ReleasedColor": {
               "Red": 255,
               "Green": 255,

@@ -14,13 +14,13 @@ screenViewBase::screenViewBase()
 
     buttonWithLabel2.setXY(155, 114);
     buttonWithLabel2.setBitmaps(touchgfx::Bitmap(BITMAP_BLUE_BUTTONS_ROUND_EDGE_SMALL_ID), touchgfx::Bitmap(BITMAP_BLUE_BUTTONS_ROUND_EDGE_SMALL_PRESSED_ID));
-    buttonWithLabel2.setLabelText(touchgfx::TypedText(T_SINGLEUSEID1));
+    buttonWithLabel2.setLabelText(touchgfx::TypedText(T_SINGLEUSEID2));
     buttonWithLabel2.setLabelColor(touchgfx::Color::getColorFrom24BitRGB(255, 255, 255));
     buttonWithLabel2.setLabelColorPressed(touchgfx::Color::getColorFrom24BitRGB(255, 255, 255));
 
     buttonWithLabel1.setXY(310, 0);
     buttonWithLabel1.setBitmaps(touchgfx::Bitmap(BITMAP_BLUE_BUTTONS_ROUND_EDGE_SMALL_ID), touchgfx::Bitmap(BITMAP_BLUE_BUTTONS_ROUND_EDGE_SMALL_PRESSED_ID));
-    buttonWithLabel1.setLabelText(touchgfx::TypedText(T_SINGLEUSEID2));
+    buttonWithLabel1.setLabelText(touchgfx::TypedText(T_SINGLEUSEID1));
     buttonWithLabel1.setLabelColor(touchgfx::Color::getColorFrom24BitRGB(255, 255, 255));
     buttonWithLabel1.setLabelColorPressed(touchgfx::Color::getColorFrom24BitRGB(255, 255, 255));
 
