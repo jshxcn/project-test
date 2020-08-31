@@ -16,5 +16,5 @@
     ],
     "PostGenerateTargetCommand" : "touchgfx update_project --project-file=../test.ioc --platform=m4"
   },
-  "Version": "4.13.0"
+  "Version": "4.14.0"
 }

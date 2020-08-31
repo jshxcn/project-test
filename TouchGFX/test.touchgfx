@@ -39,7 +39,7 @@
             },
             "TextRotation": "0",
             "Style": "Style4",
-            "Name": "buttonWithLabel1",
+            "Name": "buttonWithLabel2",
             "X": 155,
             "Y": 114,
             "Width": 170,
@@ -67,7 +67,7 @@
               "Blue": 255
             },
             "TextRotation": "0",
-            "Name": "buttonWithLabel2",
+            "Name": "buttonWithLabel1",
             "X": 310,
             "Y": 0,
             "Width": 170,
